@@ -1,0 +1,16 @@
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.exe
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.deps.json
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.runtimeconfig.json
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.runtimeconfig.dev.json
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.dll
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ref\ZADANIA.dll
+C:\Users\Студент\Desktop\DAY3\ZADANIA\bin\Debug\net5.0\ZADANIA.pdb
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.AssemblyInfo.cs
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.dll
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ref\ZADANIA.dll
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.pdb
+C:\Users\Студент\Desktop\DAY3\ZADANIA\obj\Debug\net5.0\ZADANIA.genruntimeconfig.cache
