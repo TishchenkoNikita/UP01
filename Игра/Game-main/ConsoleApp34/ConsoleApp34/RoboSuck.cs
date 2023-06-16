@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp34
+{
+    public class RoboSuck : Enemy
+    {
+        public RoboSuck() : base(65, 13, 2, 300)
+        {
+        }
+    }
+}
